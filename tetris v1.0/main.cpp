@@ -327,7 +327,7 @@ void New_Game(Player_infor *Infor)
 {
     Infor ->level=1;
     Infor ->score=0;
-    Infor ->speed=0.4;
+    Infor ->speed=0.5;
 }
 
 int Update_Infor(Player_infor *Infor, long int score)
@@ -336,7 +336,8 @@ int Update_Infor(Player_infor *Infor, long int score)
     if(Infor ->score%100 ==0 )
     {
         Infor ->level ++;
-        Infor ->speed +=0.15;
+        Infor ->speed /=100*Infor ->level;
+
     }
 
     return 0;
@@ -350,19 +351,15 @@ void Draw_Score_Board(Player_infor infor)
     cout<<"Score:  "<<infor.score;
     gotoXY(LEFT+MaxJ+2,11);
     cout<<"Level:  "<<infor.level;
-    gotoXY(LEFT+MaxJ+2,12);
-    cout<<"Speed:  "<<infor.speed;
 }
 
-int Test_State_Player(Block *pBlock, Player_infor *Infor)
+bool Test_State_Player(Block *pBlock, Player_infor *Infor)
 {
     int i,j,temp;
     i=pBlock ->Row-1;
-    int Game_Over=-1;
-    int Win=0;
+    int Game_Over=0;
     long int Score_Each_Row=20;
     if(pBlock ->iBoard<=3) return Game_Over;
-    if(Infor ->score >=300) return 0;
     // test from row-1 to row <=3 of block
     do{
         temp=0;
@@ -509,7 +506,7 @@ int main()
        {
            Merge_Storage(currBlock);
            int result=Test_State_Player(currBlock, &infor);
-           if((result==-1||result==0))
+           if(result==0)
             break;
            Delete_Memory_Block(currBlock);
            currBlock=CreateBlock(IDNext);
