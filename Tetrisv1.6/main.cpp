@@ -1,6 +1,7 @@
 #include <iostream>
 #include "console.h"
-#include "color_display/ColorDisplay.h"
+#include "ColorDisplay.h"
+#include "DrawScreen.h"
 #include <cstdlib>
 #include <ctime>
 #include <conio.h>
@@ -13,7 +14,7 @@ using namespace std;
 
 int Board[MaxI][MaxJ];
 
-void DrawBoard(); // draw board have row 10 col 20
+
 
 void DisplayBoard();
 
@@ -165,36 +166,6 @@ int main()
 
 
 
-void DrawBoard() // draw board have row 10 col 20
-{
-    for(int i=LEFT; i<=LEFT+10+1; i++)
-    {
-
-        for(int j=TOP; j<=TOP+18+1; j++)
-        {
-
-            if((j==TOP||j==TOP+18+1)&&i>LEFT&&i<LEFT+10+1)
-            {
-                gotoXY(i,j);
-                TextColor(7);
-                cout<<char(205);
-            }
-
-            if((i==LEFT||i==LEFT+10+1)&&j>TOP&&j<TOP+18+1)
-            {
-                gotoXY(i,j);
-                TextColor(7);
-                cout<<char(186);
-            }
-        }
-
-        gotoXY(LEFT,TOP);TextColor(LIGHT_RED);cout<<char(219);
-        gotoXY(LEFT+10+1,TOP);TextColor(LIGHT_RED);cout<<char(219);
-        gotoXY(LEFT,TOP+18+1);TextColor(LIGHT_RED);cout<<char(219);
-        gotoXY(LEFT+10+1,TOP+18+1);TextColor(LIGHT_RED);cout<<char(219);
-    }
-}
-
 void DisplayBoard()
 {
     int i,j;
@@ -218,6 +189,7 @@ void DisplayBoard()
         }
     }
 }
+
 
 void ClearRow(int row)
 {
@@ -475,7 +447,7 @@ void New_Game(Player_infor *Infor)
 
 int Update_Infor(Player_infor *Infor, long int score)
 {
-    Infor ->score+=score;
+
     if((Infor ->score%100)+score>=100)
     {
         Infor ->level ++;
@@ -483,6 +455,8 @@ int Update_Infor(Player_infor *Infor, long int score)
         {Infor ->speed -=100;
         }
     }
+
+    Infor ->score+=score;
 
     return 0;
 

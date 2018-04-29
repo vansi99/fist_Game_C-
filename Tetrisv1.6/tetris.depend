@@ -119,3 +119,51 @@
 	<ctime>
 	<conio.h>
 
+1523944380 source:c:\users\admin\desktop\tetrisv1.6\header\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1523944380 c:\users\admin\desktop\tetrisv1.6\header\console.h
+	<windows.h>
+
+1524939079 source:c:\users\admin\desktop\tetrisv1.6\main.cpp
+	<iostream>
+	"console.h"
+	"color_display/ColorDisplay.h"
+	"DrawScreen.h"
+	<cstdlib>
+	<ctime>
+	<conio.h>
+
+1523944380 c:\users\admin\desktop\tetrisv1.6\include\console.h
+	<windows.h>
+
+1523944380 c:\users\admin\desktop\tetrisv1.6\color_display\colordisplay.h
+	<windows.h>
+	<vector>
+
+1524940069 c:\users\admin\desktop\tetrisv1.6\include\drawscreen.h
+	<iostream>
+	"ColorDisplay.h"
+	"console.h"
+
+1523944380 source:c:\users\admin\desktop\tetrisv1.6\src\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1523855358 source:c:\users\admin\desktop\tetrisv1.6\src\colordisplay.cpp
+	"ColorDisplay.h"
+	<iostream>
+
+1524939857 c:\users\admin\desktop\tetrisv1.6\include\colordisplay.h
+	<windows.h>
+	<vector>
+
+1524939986 source:c:\users\admin\desktop\tetrisv1.6\src\drawscreen.cpp
+	"DrawScreen.h"
+	<iostream>
+	"console.h"
+	"ColorDisplay.h"
+
