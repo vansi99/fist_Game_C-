@@ -1,0 +1,874 @@
+# depslib dependency file v1.0
+1443331591 source:c:\c+\tetris\header\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1443331617 c:\c+\tetris\header\console.h
+	<windows.h>
+
+1521622205 source:c:\c+\tetris\color_display\colordisplay.cpp
+	"ColorDisplay.h"
+	<iostream>
+
+1521621498 c:\c+\tetris\color_display\colordisplay.h
+	<windows.h>
+	<vector>
+
+1523467748 source:c:\c+\tetris\main.cpp
+	<iostream>
+	"console.h"
+	"color_display/ColorDisplay.h"
+	<cstdlib>
+	<ctime>
+	<conio.h>
+
+1523469710 source:e:\users\administrator\desktop\fist_game_c-\fist_game_c-\tetris v1.0\color_display\colordisplay.cpp
+	"ColorDisplay.h"
+	<iostream>
+
+1523469710 e:\users\administrator\desktop\fist_game_c-\fist_game_c-\tetris v1.0\color_display\colordisplay.h
+	<windows.h>
+	<vector>
+
+1523469710 source:e:\users\administrator\desktop\fist_game_c-\fist_game_c-\tetris v1.0\header\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1523469710 e:\users\administrator\desktop\fist_game_c-\fist_game_c-\tetris v1.0\header\console.h
+	<windows.h>
+
+1523471724 source:e:\users\administrator\desktop\fist_game_c-\fist_game_c-\tetris v1.0\main.cpp
+	<iostream>
+	"console.h"
+	"color_display/ColorDisplay.h"
+	<cstdlib>
+	<ctime>
+	<conio.h>
+
+1523947980 source:c:\users\admin\desktop\fist_game_c-\fist_game_c-\tetris v1.0\color_display\colordisplay.cpp
+	"ColorDisplay.h"
+	<iostream>
+
+1523947980 c:\users\admin\desktop\fist_game_c-\fist_game_c-\tetris v1.0\color_display\colordisplay.h
+	<windows.h>
+	<vector>
+
+1523947980 source:c:\users\admin\desktop\fist_game_c-\fist_game_c-\tetris v1.0\header\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1523947980 c:\users\admin\desktop\fist_game_c-\fist_game_c-\tetris v1.0\header\console.h
+	<windows.h>
+
+1523956256 source:c:\users\admin\desktop\fist_game_c-\fist_game_c-\tetris v1.0\main.cpp
+	<iostream>
+	"console.h"
+	"color_display/ColorDisplay.h"
+	<cstdlib>
+	<ctime>
+	<conio.h>
+
+1523947980 source:c:\users\admin\desktop\tetris v1.3\color_display\colordisplay.cpp
+	"ColorDisplay.h"
+	<iostream>
+
+1523947980 c:\users\admin\desktop\tetris v1.3\color_display\colordisplay.h
+	<windows.h>
+	<vector>
+
+1523947980 source:c:\users\admin\desktop\tetris v1.3\header\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1523947980 c:\users\admin\desktop\tetris v1.3\header\console.h
+	<windows.h>
+
+1524037585 source:c:\users\admin\desktop\tetris v1.3\main.cpp
+	<iostream>
+	"console.h"
+	"color_display/ColorDisplay.h"
+	<cstdlib>
+	<ctime>
+	<conio.h>
+
+1523944380 source:c:\users\admin\desktop\tetris v1.4\color_display\colordisplay.cpp
+	"ColorDisplay.h"
+	<iostream>
+
+1523944380 c:\users\admin\desktop\tetris v1.4\color_display\colordisplay.h
+	<windows.h>
+	<vector>
+
+1523944380 source:c:\users\admin\desktop\tetris v1.4\header\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1523944380 c:\users\admin\desktop\tetris v1.4\header\console.h
+	<windows.h>
+
+1524555310 source:c:\users\admin\desktop\tetris v1.4\main.cpp
+	<iostream>
+	"console.h"
+	"color_display/ColorDisplay.h"
+	<cstdlib>
+	<ctime>
+	<conio.h>
+
+1523944380 source:c:\users\admin\desktop\tetrisv1.6\header\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1523944380 c:\users\admin\desktop\tetrisv1.6\header\console.h
+	<windows.h>
+
+1525408617 source:c:\users\admin\desktop\tetrisv1.6\main.cpp
+	"Menu.h"
+	"GameLoop.h"
+
+1523944380 c:\users\admin\desktop\tetrisv1.6\include\console.h
+	<windows.h>
+
+1523944380 c:\users\admin\desktop\tetrisv1.6\color_display\colordisplay.h
+	<windows.h>
+	<vector>
+
+1525408378 c:\users\admin\desktop\tetrisv1.6\include\drawscreen.h
+	"console.h"
+	"GameState.h"
+	"Player.h"
+
+1523944380 source:c:\users\admin\desktop\tetrisv1.6\src\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1523855358 source:c:\users\admin\desktop\tetrisv1.6\src\colordisplay.cpp
+	"ColorDisplay.h"
+	<iostream>
+
+1524939857 c:\users\admin\desktop\tetrisv1.6\include\colordisplay.h
+	<windows.h>
+	<vector>
+
+1525372716 source:c:\users\admin\desktop\tetrisv1.6\src\drawscreen.cpp
+	"DrawScreen.h"
+	<iostream>
+	"console.h"
+	"GameState.h"
+
+1525408378 c:\users\admin\desktop\tetrisv1.6\include\gamestate.h
+	<iostream>
+	"Player.h"
+
+1525017695 source:c:\users\admin\desktop\tetrisv1.6\src\gamestate.cpp
+	<iostream>
+	"GameState.h"
+
+1525076731 c:\users\admin\desktop\tetrisv1.6\include\blockstate.h
+
+1525076731 source:c:\users\admin\desktop\tetrisv1.6\src\blockstate.cpp
+	"BlockState.h"
+	"GameState.h"
+
+1525408378 c:\users\admin\desktop\tetrisv1.6\include\movebrick.h
+	"Block.h"
+
+1525099134 source:c:\users\admin\desktop\tetrisv1.6\src\movebrick.cpp
+	"MoveBrick.h"
+	"BlockState.h"
+	"GameState.h"
+	"Block.h"
+
+1525099311 c:\users\admin\desktop\tetrisv1.6\include\bricks.h
+	"Block.h"
+
+1525099105 c:\users\admin\desktop\tetrisv1.6\include\block.h
+
+1525099186 source:c:\users\admin\desktop\tetrisv1.6\src\block.cpp
+	"Block.h"
+
+1525099548 source:c:\users\admin\desktop\tetrisv1.6\src\bricks.cpp
+	"Bricks.h"
+	<iostream>
+	"console.h"
+	"GameState.h"
+
+1525100678 c:\users\admin\desktop\tetrisv1.6\include\player.h
+	"Block.h"
+	"GameState.h"
+
+1525101070 source:c:\users\admin\desktop\tetrisv1.6\src\player.cpp
+	"Player.h"
+	"console.h"
+
+1525408378 c:\users\admin\desktop\tetrisv1.6\include\gameloop.h
+	<iostream>
+	"console.h"
+	"DrawScreen.h"
+	"Bricks.h"
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"GameState.h"
+	"BlockState.h"
+	"Block.h"
+	"MoveBrick.h"
+	"Player.h"
+	"ToolOfGameLoop.h"
+
+1525371550 c:\users\admin\desktop\tetrisv1.6\include\toolofgameloop.h
+
+1525408574 source:c:\users\admin\desktop\tetrisv1.6\src\gameloop.cpp
+	"GameLoop.h"
+
+1525407840 source:c:\users\admin\desktop\tetrisv1.6\src\toolofgameloop.cpp
+	"ToolOfGameLoop.h"
+	"console.h"
+	<conio.h>
+	<iostream>
+
+1525408378 source:c:\users\admin\desktop\tetrisv1.6\src\menu.cpp
+	"Menu.h"
+	"console.h"
+	<iostream>
+
+1525407669 c:\users\admin\desktop\tetrisv1.6\include\menu.h
+
+1525076731 source:d:\c++\tetrisv1.6\src\blockstate.cpp
+	"BlockState.h"
+	"GameState.h"
+
+1526627895 source:d:\c++\tetrisv1.6\src\bricks.cpp
+	"Bricks.h"
+	<iostream>
+	"console.h"
+	"GameState.h"
+
+1523944380 source:d:\c++\tetrisv1.6\src\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1526012725 source:d:\c++\tetrisv1.6\src\drawscreen.cpp
+	<iostream>
+	"../include/DrawScreen.h"
+	"../../console/console.h"
+	"../include/GameState.h"
+
+1526629173 source:d:\c++\tetrisv1.6\src\gameloop.cpp
+	"../include/GameLoop.h"
+	"../include/GameState.h"
+
+1526027541 source:d:\c++\tetrisv1.6\src\menu.cpp
+	"Menu.h"
+	"console.h"
+	<iostream>
+
+1525099134 source:d:\c++\tetrisv1.6\src\movebrick.cpp
+	"MoveBrick.h"
+	"BlockState.h"
+	"GameState.h"
+	"Block.h"
+
+1526031704 source:d:\c++\tetrisv1.6\src\player.cpp
+	"Player.h"
+	"console.h"
+
+1526021953 source:d:\c++\tetrisv1.6\src\toolofgameloop.cpp
+	"ToolOfGameLoop.h"
+	"console.h"
+	<conio.h>
+	<iostream>
+
+1526629088 source:d:\c++\tetrisv1.6\main.cpp
+	<iostream>
+	"include\Menu.h"
+	"include\GameLoop.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\close_code.h
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922212 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519932852 d:\c++\sdl2-2.0.8\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1525076731 source:c:\users\admin\documents\c++\tetrisv1.6\src\blockstate.cpp
+	"BlockState.h"
+	"GameState.h"
+
+1525099548 source:c:\users\admin\documents\c++\tetrisv1.6\src\bricks.cpp
+	"Bricks.h"
+	<iostream>
+	"console.h"
+	"GameState.h"
+
+1523944380 source:c:\users\admin\documents\c++\tetrisv1.6\src\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1525408574 source:c:\users\admin\documents\c++\tetrisv1.6\src\gameloop.cpp
+	"GameLoop.h"
+
+1525408378 source:c:\users\admin\documents\c++\tetrisv1.6\src\menu.cpp
+	"Menu.h"
+	"console.h"
+	<iostream>
+
+1525099134 source:c:\users\admin\documents\c++\tetrisv1.6\src\movebrick.cpp
+	"MoveBrick.h"
+	"BlockState.h"
+	"GameState.h"
+	"Block.h"
+
+1525101070 source:c:\users\admin\documents\c++\tetrisv1.6\src\player.cpp
+	"Player.h"
+	"console.h"
+
+1525407840 source:c:\users\admin\documents\c++\tetrisv1.6\src\toolofgameloop.cpp
+	"ToolOfGameLoop.h"
+	"console.h"
+	<conio.h>
+	<iostream>
+
+1525934577 source:c:\users\admin\documents\c++\tetrisv1.6\main.cpp
+	<iostream>
+	"include\Menu.h"
+	"include\GameLoop.h"
+
+1525407669 c:\users\admin\documents\c++\tetrisv1.6\include\menu.h
+
+1525408378 c:\users\admin\documents\c++\tetrisv1.6\include\gameloop.h
+	<iostream>
+	"console.h"
+	"DrawScreen.h"
+	"Bricks.h"
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"GameState.h"
+	"BlockState.h"
+	"Block.h"
+	"MoveBrick.h"
+	"Player.h"
+	"ToolOfGameLoop.h"
+
+1523944380 c:\users\admin\documents\c++\tetrisv1.6\include\console.h
+	<windows.h>
+
+1525934679 c:\users\admin\documents\c++\tetrisv1.6\include\drawscreen.h
+	"console.h"
+	"GameState.h"
+	"Player.h"
+
+1525408378 c:\users\admin\documents\c++\tetrisv1.6\include\gamestate.h
+	<iostream>
+	"Player.h"
+
+1525100678 c:\users\admin\documents\c++\tetrisv1.6\include\player.h
+	"Block.h"
+	"GameState.h"
+
+1525099105 c:\users\admin\documents\c++\tetrisv1.6\include\block.h
+
+1525802092 c:\users\admin\documents\c++\tetrisv1.6\include\bricks.h
+	"Block.h"
+
+1525076731 c:\users\admin\documents\c++\tetrisv1.6\include\blockstate.h
+
+1525408378 c:\users\admin\documents\c++\tetrisv1.6\include\movebrick.h
+	"Block.h"
+
+1525371550 c:\users\admin\documents\c++\tetrisv1.6\include\toolofgameloop.h
+
+1525407669 d:\c++\tetrisv1.6\include\menu.h
+
+1526013604 d:\c++\tetrisv1.6\include\gameloop.h
+	<iostream>
+	"console.h"
+	"DrawScreen.h"
+	"Bricks.h"
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string>
+	"GameState.h"
+	"BlockState.h"
+	"Block.h"
+	"MoveBrick.h"
+	"Player.h"
+	"ToolOfGameLoop.h"
+
+1523944380 d:\c++\tetrisv1.6\include\console.h
+	<windows.h>
+
+1525934679 d:\c++\tetrisv1.6\include\drawscreen.h
+	"console.h"
+	"GameState.h"
+	"Player.h"
+
+1525408378 d:\c++\tetrisv1.6\include\gamestate.h
+	<iostream>
+	"Player.h"
+
+1526012673 d:\c++\tetrisv1.6\include\player.h
+	"Block.h"
+	"GameState.h"
+	<iostream>
+	<string>
+
+1525099105 d:\c++\tetrisv1.6\include\block.h
+
+1525802092 d:\c++\tetrisv1.6\include\bricks.h
+	"Block.h"
+
+1525076731 d:\c++\tetrisv1.6\include\blockstate.h
+
+1525408378 d:\c++\tetrisv1.6\include\movebrick.h
+	"Block.h"
+
+1526021953 d:\c++\tetrisv1.6\include\toolofgameloop.h
+	<string>
+
+1523856598 source:d:\c++\console\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1523856598 d:\c++\console\console.h
+	<windows.h>
+
+1526629088 source:d:\c++\tetris\main.cpp
+	<iostream>
+	"include\Menu.h"
+	"include\GameLoop.h"
+
+1525407669 d:\c++\tetris\include\menu.h
+
+1526013604 d:\c++\tetris\include\gameloop.h
+	<iostream>
+	"console.h"
+	"DrawScreen.h"
+	"Bricks.h"
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string>
+	"GameState.h"
+	"BlockState.h"
+	"Block.h"
+	"MoveBrick.h"
+	"Player.h"
+	"ToolOfGameLoop.h"
+
+1523944380 d:\c++\tetris\include\console.h
+	<windows.h>
+
+1525934679 d:\c++\tetris\include\drawscreen.h
+	"console.h"
+	"GameState.h"
+	"Player.h"
+
+1525408378 d:\c++\tetris\include\gamestate.h
+	<iostream>
+	"Player.h"
+
+1526012673 d:\c++\tetris\include\player.h
+	"Block.h"
+	"GameState.h"
+	<iostream>
+	<string>
+
+1525099105 d:\c++\tetris\include\block.h
+
+1525802092 d:\c++\tetris\include\bricks.h
+	"Block.h"
+
+1525076731 d:\c++\tetris\include\blockstate.h
+
+1525408378 d:\c++\tetris\include\movebrick.h
+	"Block.h"
+
+1526021953 d:\c++\tetris\include\toolofgameloop.h
+	<string>
+
+1525076731 source:d:\c++\tetris\src\blockstate.cpp
+	"BlockState.h"
+	"GameState.h"
+
+1526629898 source:d:\c++\tetris\src\bricks.cpp
+	"Bricks.h"
+	<iostream>
+	"console.h"
+	"GameState.h"
+
+1526012725 source:d:\c++\tetris\src\drawscreen.cpp
+	<iostream>
+	"../include/DrawScreen.h"
+	"../../console/console.h"
+	"../include/GameState.h"
+
+1526629898 source:d:\c++\tetris\src\gameloop.cpp
+	"../include/GameLoop.h"
+	"../include/GameState.h"
+
+1526027541 source:d:\c++\tetris\src\menu.cpp
+	"Menu.h"
+	"console.h"
+	<iostream>
+
+1525099134 source:d:\c++\tetris\src\movebrick.cpp
+	"MoveBrick.h"
+	"BlockState.h"
+	"GameState.h"
+	"Block.h"
+
+1526031704 source:d:\c++\tetris\src\player.cpp
+	"Player.h"
+	"console.h"
+
+1526021953 source:d:\c++\tetris\src\toolofgameloop.cpp
+	"ToolOfGameLoop.h"
+	"console.h"
+	<conio.h>
+	<iostream>
+
