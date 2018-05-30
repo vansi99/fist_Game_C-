@@ -872,3 +872,106 @@
 	<conio.h>
 	<iostream>
 
+1526629088 source:d:\c++\fist_game_c-\fist_game_c-\tetris\main.cpp
+	<iostream>
+	"include\Menu.h"
+	"include\GameLoop.h"
+
+1525407669 d:\c++\fist_game_c-\fist_game_c-\tetris\include\menu.h
+
+1526013604 d:\c++\fist_game_c-\fist_game_c-\tetris\include\gameloop.h
+	<iostream>
+	"console.h"
+	"DrawScreen.h"
+	"Bricks.h"
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string>
+	"GameState.h"
+	"BlockState.h"
+	"Block.h"
+	"MoveBrick.h"
+	"Player.h"
+	"ToolOfGameLoop.h"
+
+1523944380 d:\c++\fist_game_c-\fist_game_c-\tetris\include\console.h
+	<windows.h>
+
+1527688254 d:\c++\fist_game_c-\fist_game_c-\tetris\include\drawscreen.h
+	"console.h"
+	"GameState.h"
+	"Player.h"
+
+1525408378 d:\c++\fist_game_c-\fist_game_c-\tetris\include\gamestate.h
+	<iostream>
+	"Player.h"
+
+1526012673 d:\c++\fist_game_c-\fist_game_c-\tetris\include\player.h
+	"Block.h"
+	"GameState.h"
+	<iostream>
+	<string>
+
+1525099105 d:\c++\fist_game_c-\fist_game_c-\tetris\include\block.h
+
+1525802092 d:\c++\fist_game_c-\fist_game_c-\tetris\include\bricks.h
+	"Block.h"
+
+1525076731 d:\c++\fist_game_c-\fist_game_c-\tetris\include\blockstate.h
+
+1525408378 d:\c++\fist_game_c-\fist_game_c-\tetris\include\movebrick.h
+	"Block.h"
+
+1526021953 d:\c++\fist_game_c-\fist_game_c-\tetris\include\toolofgameloop.h
+	<string>
+
+1525076731 source:d:\c++\fist_game_c-\fist_game_c-\tetris\src\blockstate.cpp
+	"BlockState.h"
+	"GameState.h"
+
+1526629898 source:d:\c++\fist_game_c-\fist_game_c-\tetris\src\bricks.cpp
+	"Bricks.h"
+	<iostream>
+	"console.h"
+	"GameState.h"
+
+1527688456 source:d:\c++\fist_game_c-\fist_game_c-\tetris\src\drawscreen.cpp
+	<iostream>
+	"../include/DrawScreen.h"
+	"console.h"
+	"../include/GameState.h"
+
+1526629898 source:d:\c++\fist_game_c-\fist_game_c-\tetris\src\gameloop.cpp
+	"../include/GameLoop.h"
+	"../include/GameState.h"
+
+1526027541 source:d:\c++\fist_game_c-\fist_game_c-\tetris\src\menu.cpp
+	"Menu.h"
+	"console.h"
+	<iostream>
+
+1525099134 source:d:\c++\fist_game_c-\fist_game_c-\tetris\src\movebrick.cpp
+	"MoveBrick.h"
+	"BlockState.h"
+	"GameState.h"
+	"Block.h"
+
+1526031704 source:d:\c++\fist_game_c-\fist_game_c-\tetris\src\player.cpp
+	"Player.h"
+	"console.h"
+
+1526021953 source:d:\c++\fist_game_c-\fist_game_c-\tetris\src\toolofgameloop.cpp
+	"ToolOfGameLoop.h"
+	"console.h"
+	<conio.h>
+	<iostream>
+
+1523856598 d:\c++\fist_game_c-\fist_game_c-\tetris\console\console.h
+	<windows.h>
+
+1525939548 source:d:\c++\fist_game_c-\fist_game_c-\tetris\src\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+

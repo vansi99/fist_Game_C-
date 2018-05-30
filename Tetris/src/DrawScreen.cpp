@@ -2,7 +2,7 @@
 #define LEFT 4
 #define TOP 4
 #include"../include/DrawScreen.h"
-#include"../../console/console.h"
+#include"console.h"
 #include"../include/GameState.h"
 using namespace std;
 
