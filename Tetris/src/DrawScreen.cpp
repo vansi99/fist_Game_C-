@@ -6,7 +6,7 @@
 #include"../include/GameState.h"
 using namespace std;
 
-void DrawBoard() // draw board have row 10 col 20
+void DrawBoard() // draw board have row 10 col 18
 {
     for(int i=LEFT; i<=LEFT+10+1; i++)
     {

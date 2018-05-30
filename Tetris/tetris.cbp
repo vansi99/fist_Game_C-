@@ -41,8 +41,6 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="../console/console.cpp" />
-		<Unit filename="../console/console.h" />
 		<Unit filename="include/Block.h" />
 		<Unit filename="include/BlockState.h" />
 		<Unit filename="include/Bricks.h" />
@@ -53,6 +51,7 @@
 		<Unit filename="include/MoveBrick.h" />
 		<Unit filename="include/Player.h" />
 		<Unit filename="include/ToolOfGameLoop.h" />
+		<Unit filename="include/console.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/BlockState.cpp" />
 		<Unit filename="src/Bricks.cpp" />
@@ -62,6 +61,7 @@
 		<Unit filename="src/MoveBrick.cpp" />
 		<Unit filename="src/Player.cpp" />
 		<Unit filename="src/ToolOfGameLoop.cpp" />
+		<Unit filename="src/console.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
